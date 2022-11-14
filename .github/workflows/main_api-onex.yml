@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'api-onex'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E79E442A57E4486F8ECE67F6A9015D0E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_54BD8FEE958A44DAB30AC0D09D8CA3E0 }}
